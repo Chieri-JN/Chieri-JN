@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Howdy 👋 
 <!--
 **Chieri-JN/Chieri-JN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
