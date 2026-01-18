@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=Chieri-JN&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chieri-JN&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
-<!--
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chieri-JN&limit=5&theme=monokai&combine_all_yearly_contributions=true)
--->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
